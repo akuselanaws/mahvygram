@@ -1,0 +1,7 @@
+create github account
+use this github account to use free tier with appwrite.io
+in vs code create a folder (mahvygram)
+open a terminal
+    npm install vite@latest ./
+    npm install
+    npm run dev
